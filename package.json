@@ -1,0 +1,24 @@
+{
+  "name": "api-bitcoin-tesnet",
+  "version": "1.0.0",
+  "description": "Api Bitcoin networt Testnet",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgdj92/api-bitcoin-tesnet.git"
+  },
+  "keywords": [
+    "Api",
+    "Bitcoin",
+    "Testnet"
+  ],
+  "author": "Jorge Ivan Reyes Valencia <jorgeivanreyesvalencia92@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorgdj92/api-bitcoin-tesnet/issues"
+  },
+  "homepage": "https://github.com/jorgdj92/api-bitcoin-tesnet#readme"
+}
